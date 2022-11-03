@@ -1,59 +1,0 @@
-
-                     AVE MARIA HOSPITAL (PVT) LTD.
-                                                No. 1, Ave Maria Road, Negombo.
-                                                                 Tel: 031-22974.  _____________________________________________________________________________
-
-                                                              Date: 15/02/2000 
-  PATIENT ID : 7091                                           Report Ref: 7091 
-               Mr. One                                             Page No:  1   Name       : Mr. One                                 
-  Sex        : Male  Age: 2 Years 
-  Ref.No     : NEW                                              HUMALYZER 2000                                                                 HUMALYZER 2000                                                                 ______________ 
-  REFERRED by: Dr. M.A.P. TISSERA   MBBS(Cey),MCGP(SL).                    
-  _____________________________________________________________________________
-  LABORATORY REPORT                    R E S U L T S             NORMAL VALUES   _____________________________________________________________________________
-
-  FASTING BLOOD SUGAR  FASTING BLOOD SUGAR  ___________________                                       67.0                                         67.0  mg/dl                                                                 75.0 TO 115.0 mg/dl 
-
-
-  FULL BLOOD COUNT  FULL BLOOD COUNT  ________________
-
-   HEMOGLOBIN                                        3.0                                          3.0  g/dl      
-   P.C.V.                                       45.0                                         45.0  %      
-   R.B.C.                                        4.0                                          4.0  mill/cu.mm      
-   M.C.H.C.                                        6.7                                          6.7  %                                                                      30.0 TO 35.0 % 
-   M.C.H.                                        7.5                                          7.5  pg                                                                         27 TO 32 pg 
-   M.C.V.                                      112.5                                        112.5  fl                                                                         78 TO 98 fl 
-   WHITE BLOOD CELL COUNT                                        0                                            0    /cu.mm.      
-   NEUTROPHILS                                        4                                            4    %      
-   LYMPOCYTES                                        0                                            0    %      
-   EOSINOPHILS                                        5                                            5    %      
-   MONOCYTES                                        5                                            5    %      
-   BASOPHILS                                       86                                           86    %      
-   PLATELET COUNT                                   56,456                                       56,456    /cu.mm.                                                               150000-400000 /cu.mm. 
-
-
-  GLUCOSE TOLERANCE TEST.  GLUCOSE TOLERANCE TEST.  _______________________
-
-   FASTING BLOOD SUGAR                                       56.0                                         56.0  mg/dl                                                                 75.0 TO 115.0 mg/dl 
-   URINE SUGAR
-
-
-   ORAL GLUCOSE 75 G. AT                                  5645645645                                  5645645645      
-   GLUCOSE LEVEL AFTER 0.5 HOUR                                       45.0                                         45.0  mg/dl      
-   URINE SUGAR AFTER 0.5 HOUR                                  5645645645                                  5645645645      
-   GLUCOSE LEVEL AFTER 1.0 HOURS                                       56.0                                         56.0  mg/dl      
-   URINE SUGAR AFTER 1.0 HOUR                                  5654                                  5654      
-   GLUCOSE LEVEL AFTER 1.5 HOURS                                       56.0                                         56.0  mg/dl      
-   URINE SUGAR AFTER 1.5 HOURS                                  547567                                  547567      
-   GLUCOSE LEVEL AFTER 2.0 HOURS                                       56.0                                         56.0  mg/dl      
-   URINE SUGAR AFTER 2.0 HOURS                                  56                                  56      
-
-  _____________________________________________________________________________
-  General Notes:                                                             
-
-
-  ..........................................................................
-  Dr. K. SRI RANJAN             Dr. B.M.S.P.BASNAYAKE         Dr. K.RAJASUNDRAM             Mr. K. KANDIAH  Dr. K. SRI RANJAN             Dr. B.M.S.P.BASNAYAKE         Dr. K.RAJASUNDRAM             Mr. K. KANDIAH
-  MBBS,DCH,DFM,MCGP.            MBBS,MCGP(SL).                MBBS(Cey).                    M.L.T. (Ex-M.R.I.)  _____________________________________________________________________________
-                              This is the foot note                                       
-                          [  LAB-MATE 2000 (v5.0) Reg'd to: - TLC (Trial Version) -  ]
