@@ -2,12 +2,11 @@
 
 ## A DOS/Clipper -based software for LAB Reports
 
-![screenshot](https://github.com/vrw-GH/assets/raw/main/repo-media/LabMate/Screenshot.png)
+![screenshot](https://raw.githubusercontent.com/vrw-GH/assets/main/repo-media/LabMate/Screenshot.png)
 
 ---
 
 <pre>
-
 Developer:   Victor Wright
 Client:      Ave Maria Hospital - Negombo
 Date:        ~ 1998
